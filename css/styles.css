@@ -1,0 +1,22 @@
+body{
+  background-image: url("https://i.redd.it/3bxixp7u7gk61.png"); 
+  position: fixed;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc
+}
+
+#animal-hidden {
+  display: none;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+p {
+  font-size: 20px;
+}
